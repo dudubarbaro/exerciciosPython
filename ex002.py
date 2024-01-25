@@ -1,3 +1,5 @@
-nome = input("DIgite seu nome: ")
+v1 = int(input("DIgite o primeiro valor: "))
+v2 = int(input("DIgite o segundo valor: "))
 
-print("é um prazer conhece-lo", nome)
+soma = v1 + v2
+print(soma)
